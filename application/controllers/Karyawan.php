@@ -856,8 +856,8 @@ class Karyawan extends CI_Controller {
 				// $config['protocol'] 	= "smtp";
 				// $config['smtp_host'] 	= "ssl://smtp.gmail.com";
 				// $config['smtp_port'] 	= "465";
-				// $config['smtp_user'] 	= "salahu11162014@nusamandiri.ac.id";
-				// $config['smtp_pass'] 	= "salahudindidin23121995";
+				// $config['smtp_user'] 	= "alamat email";
+				// $config['smtp_pass'] 	= "password email";
 				// $config['charset'] 		= "utf-8";
 				// $config['mailtype'] 	= "html";
 				// $config['newline'] 		= "\r\n";
